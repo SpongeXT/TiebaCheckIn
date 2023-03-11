@@ -20,7 +20,7 @@ Ba_TBS = "http://tieba.baidu.com/f?kw="
 HEADERS = {
     'Host': 'tieba.baidu.com',
     'User-Agent': 'Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36',
-    'cookie':'cookie', # 此处填写签到时的cookie
+    'cookie':'wzws_sessionid=oGQMH7KBMzdmMWJhgmRiMWNhYYAyMDMuMTY4LjUuNzY=; htVC_2132_st_p=0%7C1678504730%7C9215c39a3991781c6bac3bb4a9409325; htVC_2132_visitedfid=8; htVC_2132_viewid=tid_1525747; htVC_2132_saltkey=u8pu8J84; htVC_2132_lastvisit=1678507116; htVC_2132_seccodecS=115885.4b318870f3a008a667; htVC_2132_seccodecSVYY=115884.8bae981cb4692c1aa3; htVC_2132_lastact=1678521003%09member.php%09logging; htVC_2132_ulastactivity=1678521003%7C0; htVC_2132_auth=1b2bF9kqAruJGMTAVan1mbKFyWE5z6UBrM9g%2B%2B3efMfPeddFWMeW8LjU82sOcGjzcewK9oJ89P6P0j%2B%2B%2BbOPIFH6qp2s; htVC_2132_lastcheckfeed=1401788%7C1678521003; htVC_2132_checkfollow=1; htVC_2132_lip=203.168.5.76%2C1678521003', # 此处填写签到时的cookie
 }
 SIGN_DATA = {
     "ie": "utf-8",
